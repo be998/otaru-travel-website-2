@@ -151,9 +151,9 @@ footer {
 
 .map-image {
     display: block;
-    width: 100%;
+    width: 95%;
     max-width: 1000px;
     height: auto;
-    margin: 20px auto;
-    border-radius: 10px;
+    margin: 25px auto;
+    border-radius: 12px;
 }
